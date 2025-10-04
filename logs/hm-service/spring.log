@@ -1,0 +1,37 @@
+03:00:40:394  INFO 38308 --- [main] com.hmall.cart.CartApplication           : Starting CartApplication using Java 21.0.8 on LAPTOP-F9DK7HAO with PID 38308 (D:\BaiduNetdiskDownload\SpringCloudNew\day03\hmall\cart-service\target\classes started by h1187 in D:\BaiduNetdiskDownload\SpringCloudNew\day03\hmall)
+03:00:40:400 DEBUG 38308 --- [main] com.hmall.cart.CartApplication           : Running with Spring Boot v2.7.12, Spring v5.3.27
+03:00:40:400  INFO 38308 --- [main] com.hmall.cart.CartApplication           : The following 1 profile is active: "local"
+03:00:41:101  INFO 38308 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode
+03:00:41:106  INFO 38308 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+03:00:41:136  INFO 38308 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 13 ms. Found 0 Redis repository interfaces.
+03:00:41:691  INFO 38308 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+03:00:41:699  INFO 38308 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+03:00:41:699  INFO 38308 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.75]
+03:00:41:865  INFO 38308 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+03:00:41:865  INFO 38308 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1416 ms
+03:00:42:614  INFO 38308 --- [main] pertySourcedRequestMappingHandlerMapping : Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2ControllerWebMvc#getDocumentation(String, HttpServletRequest)]
+03:00:43:028  INFO 38308 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+03:00:43:029  INFO 38308 --- [main] d.s.w.p.DocumentationPluginsBootstrapper : Documentation plugins bootstrapped
+03:00:43:031  INFO 38308 --- [main] d.s.w.p.DocumentationPluginsBootstrapper : Found 1 custom documentation plugin(s)
+03:00:43:049  INFO 38308 --- [main] s.d.s.w.s.ApiListingReferenceScanner     : Scanning for api listing references
+03:00:43:061  INFO 38308 --- [main] com.hmall.cart.CartApplication           : Started CartApplication in 3.033 seconds (JVM running for 4.022)
+03:01:39:406  INFO 39400 --- [main] com.hmall.cart.CartApplication           : Starting CartApplication using Java 21.0.8 on LAPTOP-F9DK7HAO with PID 39400 (D:\BaiduNetdiskDownload\SpringCloudNew\day03\hmall\cart-service\target\classes started by h1187 in D:\BaiduNetdiskDownload\SpringCloudNew\day03\hmall)
+03:01:39:408 DEBUG 39400 --- [main] com.hmall.cart.CartApplication           : Running with Spring Boot v2.7.12, Spring v5.3.27
+03:01:39:409  INFO 39400 --- [main] com.hmall.cart.CartApplication           : The following 1 profile is active: "local"
+03:01:40:005  INFO 39400 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Multiple Spring Data modules found, entering strict repository configuration mode
+03:01:40:007  INFO 39400 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+03:01:40:025  INFO 39400 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 8 ms. Found 0 Redis repository interfaces.
+03:01:40:441  INFO 39400 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8082 (http)
+03:01:40:448  INFO 39400 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+03:01:40:448  INFO 39400 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.75]
+03:01:40:600  INFO 39400 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+03:01:40:600  INFO 39400 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1149 ms
+03:01:41:320  INFO 39400 --- [main] pertySourcedRequestMappingHandlerMapping : Mapped URL path [/v2/api-docs] onto method [springfox.documentation.swagger2.web.Swagger2ControllerWebMvc#getDocumentation(String, HttpServletRequest)]
+03:01:41:588  INFO 39400 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8082 (http) with context path ''
+03:01:41:589  INFO 39400 --- [main] d.s.w.p.DocumentationPluginsBootstrapper : Documentation plugins bootstrapped
+03:01:41:591  INFO 39400 --- [main] d.s.w.p.DocumentationPluginsBootstrapper : Found 1 custom documentation plugin(s)
+03:01:41:607  INFO 39400 --- [main] s.d.s.w.s.ApiListingReferenceScanner     : Scanning for api listing references
+03:01:41:616  INFO 39400 --- [main] com.hmall.cart.CartApplication           : Started CartApplication in 2.548 seconds (JVM running for 3.247)
+03:03:11:067  INFO 39400 --- [http-nio-8082-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+03:03:11:067  INFO 39400 --- [http-nio-8082-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+03:03:11:068  INFO 39400 --- [http-nio-8082-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 0 ms
