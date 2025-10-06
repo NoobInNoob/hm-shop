@@ -13,6 +13,7 @@ spring:
   cloud:
     nacos:
       server-addr: 172.16.1.12:8848
+
 mybatis-plus:
   configuration:
     default-enum-type-handler: com.baomidou.mybatisplus.core.handlers.MybatisEnumTypeHandler
@@ -42,3 +43,6 @@ knife4j:
         api-rule: package
         api-rule-resources:
           - com.hmall.cart.controller
+feign:
+  okhttp:
+    enabled: true
